@@ -1,0 +1,8 @@
+boto3==1.5.33
+Keras==2.1.4
+tweepy==3.5.0
+botocore==1.9.6
+pandas==0.20.1
+numpy==1.12.1
+scikit_learn==0.19.1
+tensorflow==1.0.1
