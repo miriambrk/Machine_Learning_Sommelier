@@ -19,4 +19,10 @@ Components:
  
 - Tabular data about the wines, varieties, and vineyards created using Tableau are incorporated into a website accessible from the Twitter BOT’s page
 
+A Tweet to the BOT would look like this:
+![alt text](input-tweet.png "Tweet")
+
+The response Tweets would look like this:
+![alt text](response-tweets.png "Response")
+
 ![alt text](wine-recom.png "Wines")
