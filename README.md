@@ -1,5 +1,5 @@
 # Machine_Learning_Sommelier
-Create a sommelier using machine learning to classify wines based on descriptions.
+This project creates a sommelier using machine learning to classify wines based on descriptions. It was a group project. 
 
 
 Dataset used can be found here (originally from Wine Enthusiast magazine)
@@ -18,6 +18,9 @@ Components:
   - Neural Network has 1 hidden layer with 750 nodes and 364 ouputs; R-squared is 0.6
  
 - Tabular data about the wines, varieties, and vineyards created using Tableau are incorporated into a website accessible from the Twitter BOT’s page
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 
 A Tweet to the BOT would look like this:
 ![alt text](input-tweet.png "Tweet")
