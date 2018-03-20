@@ -1,4 +1,4 @@
-# Machine_Learning_Somm
+# Machine_Learning_Sommelier
 Create a sommelier using machine learning to classify wines based on descriptions.
 
 
