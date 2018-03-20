@@ -18,3 +18,5 @@ Components:
   - Neural Network has 1 hidden layer with 750 nodes and 364 ouputs; R-squared is 0.6
  
 - Tabular data about the wines, varieties, and vineyards created using Tableau are incorporated into a website accessible from the Twitter BOT’s page
+
+![alt text](wine-recom.png "Wines")
